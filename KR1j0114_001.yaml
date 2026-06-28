@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1j0114/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 證俗音今謂女嫁後三日餉食為餪女南方謂凝牛羊鹿血為䘓以虀噉之消酒炙去毛為燂𪍴𪍣內國呼為環亦餅呼寒具今江南呼饊飯己煎米以糖餅之者為麩𥹷也音浮流葖蘆蔔蕪菁屬紫花大根俗呼為雹葖氍毛席也赨蛇肉食之辟蠱毒蝘蜓山東謂之𧋐𧐎音七錫名敵反陜以西謂之壁宮蝤蛑大蟹也音在侯莫侯二反有毛者曰蟛蜞無毛者為彭螖堪食俗呼彭越訛耳鰿吳人呼為鯽魚並北戶録注
+  hash: sha256:4dbb6f7a2744602aae7443205cf9c54c743e233ac67119061822c90b3c464768
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1j0114_CHANT_001-1a.1-h}
+metadata:
+  title: 證俗音
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR1j0114.xml
+hash: sha256:3a8468ff469728f2733a63decfef81c708e47669f164a05ce1042c0d439317be
