@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1j0114_001.yaml, hash: 'sha256:3a8468ff469728f2733a63decfef81c708e47669f164a05ce1042c0d439317be'}
+  - {seq: 1, filename: KR1j0114_001.yaml, hash: 'sha256:fde22db4ef4875e96b4e4cc08ff293748b7587ff16423c063fedff65bcd6f27b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1j0114_001.markers.yaml, hash: 'sha256:3975ba5d35b1ef57ffe99ae3a57cf476305d60a1eb85c888d49a605cb0e31a9b'}
+  - {seq: 1, role: markers, filename: assets/KR1j0114_001.markers.yaml, hash: 'sha256:f7e7854f658072df7c78e38bcfd12b018cc8c495aaa03d06b1878dad12fe562c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 證俗音
   type: section
   level: 1
-hash: sha256:e037c5728e248cd9660a39c639d6322861835c58f69192f2d329a5b9144a126d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:91fbc0ecfbc9ec55229990648889204fe652a69964acf72ecf2dbbe82c5492d7
